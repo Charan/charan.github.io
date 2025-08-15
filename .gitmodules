@@ -1,3 +1,6 @@
 [submodule "themes/theme-bear"]
 	path = themes/theme-bear
 	url = https://github.com/microdotblog/theme-bear.git
+[submodule "themes/maverick"]
+	path = themes/maverick
+	url = https://github.com/Charan/charan.github.io
