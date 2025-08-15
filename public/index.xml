@@ -7,12 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/example-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/example-content/</guid>
-      <description>Post Heading Post Section Post Sub-section </description>
-    </item>
   </channel>
 </rss>
