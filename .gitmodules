@@ -1,0 +1,3 @@
+[submodule "themes/theme-bear"]
+	path = themes/theme-bear
+	url = https://github.com/microdotblog/theme-bear.git
