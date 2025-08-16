@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookmarks</title>
-      <link>http://localhost:1313/posts/bookmarks/</link>
+      <link>http://localhost:1313/bookmarks/</link>
       <pubDate>Sat, 16 Aug 2025 16:17:02 -0700</pubDate>
-      <guid>http://localhost:1313/posts/bookmarks/</guid>
-      <description>People Andrej Karpathy Lilian Weng </description>
+      <guid>http://localhost:1313/bookmarks/</guid>
+      <description>People Andrej Karpathy Lilian Weng Michael Nielsen </description>
     </item>
     <item>
       <title>Good Reads</title>
