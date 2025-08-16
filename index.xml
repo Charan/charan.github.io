@@ -6,8 +6,22 @@
     <description>Recent content on Charan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 14:46:13 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 16:17:02 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bookmarks</title>
+      <link>http://localhost:1313/posts/bookmarks/</link>
+      <pubDate>Sat, 16 Aug 2025 16:17:02 -0700</pubDate>
+      <guid>http://localhost:1313/posts/bookmarks/</guid>
+      <description>People Andrej Karpathy Lilian Weng </description>
+    </item>
+    <item>
+      <title>Good Reads</title>
+      <link>http://localhost:1313/posts/good-reads/</link>
+      <pubDate>Sat, 16 Aug 2025 16:16:14 -0700</pubDate>
+      <guid>http://localhost:1313/posts/good-reads/</guid>
+      <description></description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
