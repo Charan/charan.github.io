@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Charan&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://charan.github.io/posts/</link>
     <description>Recent content in Posts on Charan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Aug 2025 14:26:31 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://charan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Temp</title>
-      <link>http://localhost:1313/posts/temp/</link>
+      <link>https://charan.github.io/posts/temp/</link>
       <pubDate>Sat, 16 Aug 2025 14:26:31 -0700</pubDate>
-      <guid>http://localhost:1313/posts/temp/</guid>
+      <guid>https://charan.github.io/posts/temp/</guid>
       <description> #include &amp;lt;stdio.h&amp;gt; int main(void) { printf(&amp;#34;Hello, world!\n&amp;#34;); return 0; } </description>
     </item>
   </channel>
