@@ -1,2 +1,0 @@
-# Charan's Blog
-## Section
